@@ -323,10 +323,10 @@ export default function BookingModal({ categories, onClose, onSubmitBooking, lan
               </div>
             </div>
 
-            <div className="kabaadsetu-guarantee-banner">
+            <div className="guarantee-banner">
               <Sparkles size={20} className="text-emerald shrink-0" />
               <div>
-                <strong>KabaadSetu Fair-Weight Guarantee</strong>
+                <strong>Scrapify Certified Fair-Weight Guarantee</strong>
                 <p className="text-xs text-muted">
                   Every dealer carries an electronic digital scale inspected by the Dept. of Legal Metrology. You get an immediate digital receipt before the dealer leaves.
                 </p>

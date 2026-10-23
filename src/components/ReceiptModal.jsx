@@ -16,7 +16,7 @@ export default function ReceiptModal({ pickup, onClose }) {
             <ShieldCheck className="text-emerald" size={24} />
             <div>
               <h3>Verified Digital Weighing Receipt</h3>
-              <p className="subtext">KabaadSetu Guaranteed Settlement Slip</p>
+              <p className="subtext">Scrapify Guaranteed Settlement Slip</p>
             </div>
           </div>
           <button className="close-btn" onClick={onClose} aria-label="Close modal">

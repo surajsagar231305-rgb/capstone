@@ -1,6 +1,6 @@
-# ♻️ KabaadSetu (कबाड़सेतु) - Smart Scrap & Recycling Marketplace
+# ♻️ Scrapify - Smart On-Demand Scrap & Recycling Marketplace
 
-> A modern hyper-local marketplace platform connecting households, offices, and shops with certified scrap dealers (Kabadiwalas) for transparent doorstep recycling with certified electronic weights and instant settlements.
+> A modern hyper-local marketplace platform connecting households, offices, and shops with certified scrap dealers for transparent doorstep recycling with certified electronic weights and instant settlements.
 
 ---
 
@@ -29,7 +29,7 @@ Visit `http://localhost:5173/` in your browser.
 ### 1. 🏠 Household / Citizen Seller
 - **Live Scrap Rate Board:** Real-time per-kg rates for paper, cardboard, plastics, iron/steel, copper, brass, aluminium, e-waste, inverter batteries, and appliances.
 - **Doorstep Pickup Booking Wizard:** 3-step scheduling wizard with category selection, weight estimation sliders, photo upload preview, address/pin code, and morning/afternoon/evening slots.
-- **Live Order Tracker:** Visual 4-stage tracking timeline (`Booked` ➔ `Assigned` ➔ `Out for Pickup` ➔ `Weighed & Paid`) with dealer contact and scale certificate details.
+- **Live Order Tracker:** Visual 4-stage tracking timeline (`Booked` ➔ `Assigned` ➔ `On Route (Vehicle Out)` ➔ `Weighed & Paid`) with dealer contact and scale certificate details.
 - **Green Sustainability Score:** Environmental impact engine calculating landfill diversion (kg), trees saved, water conserved, and CO₂ offset.
 
 ### 2. 🚛 Verified Scrap Dealer Desk
@@ -40,7 +40,7 @@ Visit `http://localhost:5173/` in your browser.
 - **Daily Rate Card Manager:** Adjust local per-kg buying prices with one click.
 
 ### 3. 🛡️ Platform Admin Suite
-- **Legal Metrology Scale & KYC Verification:** Inspect dealer shop licenses (Gumasta), Aadhaar IDs, and digital scale stamping certificates before granting verified badges.
+- **Legal Metrology Scale & KYC Verification:** Inspect dealer shop licenses, Aadhaar IDs, and digital scale stamping certificates before granting verified badges.
 - **City Benchmark Rates Controller:** Broadcast daily standard base rates across urban wards to prevent under-quoting.
 - **Doorstep Audit & Dispute Monitor:** Live feed of completed pickups, customer ratings, and transparent settlement verification.
 
